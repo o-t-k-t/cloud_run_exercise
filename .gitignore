@@ -1,0 +1,6 @@
+# Terraform
+.terraform
+*.tfstate*
+
+# Serveerside app.
+server/bin
